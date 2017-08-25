@@ -28,7 +28,7 @@ HOW TO INSTALL DEPENDENCIES VIA COMPOSER:
 ],
 ```
 
-2. Execute `composer install`
+2. Execute `composer require ckeditor/tabletoolstoolbar`
 3. Make sure there is the file `libraries/tabletoolstoolbar/plugin.js`.
 
 HOW TO INSTALL DEPENDENCIES MANUALLY:
